@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent" android:orientation="vertical"
+        android:gravity="fill_vertical" android:layout_margin="10dp"
+
+        >
+        <!--android:padding="10dp"-->
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hello World!"
+             />
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent" android:orientation="horizontal"
+            android:gravity="fill_horizontal"
+            android:background="@drawable/round_corner_rectangle"
+            android:layout_margin="0.5dp"
+            >
+            <!--android:layout_margin="20dp"-->
+            <ImageButton
+                android:id="@+id/imageButtonGenerateBulk"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="25dp"
+
+                android:layout_gravity="center_vertical"
+                android:ellipsize="end"
+                android:scrollHorizontally="true"
+                android:singleLine="true"
+                android:text="Generate Qr Code"
+                android:textStyle="bold"
+                android:layout_alignEnd="@+id/tv_question"
+                android:layout_alignRight="@+id/tv_question"
+                android:background="#00ffffff"
+                android:src="@drawable/drawii"
+                android:layout_weight="1"/>
+            <ImageButton
+                android:id="@+id/imageButtonGenerateBulk2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="25dp"
+
+                android:layout_gravity="center_vertical"
+                android:ellipsize="end"
+                android:scrollHorizontally="true"
+                android:singleLine="true"
+                android:text="Generate Qr Code"
+                android:textStyle="bold"
+                android:layout_alignEnd="@+id/tv_question"
+                android:layout_alignRight="@+id/tv_question"
+                android:background="#00ffffff"
+                android:src="@drawable/drawii"
+                android:layout_weight="1"/>
+        </LinearLayout>
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent" android:orientation="horizontal"
+            android:gravity="fill_horizontal"
+            android:background="@drawable/round_corner_rectangle"
+            android:layout_margin="0.5dp"
+            >
+            <!--android:layout_margin="20dp"-->
+            <ImageButton
+                android:id="@+id/imageButtonGenerateBulk3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="25dp"
+
+                android:layout_gravity="center_vertical"
+                android:ellipsize="end"
+                android:scrollHorizontally="true"
+                android:singleLine="true"
+                android:text="Generate Qr Code"
+                android:textStyle="bold"
+                android:layout_alignEnd="@+id/tv_question"
+                android:layout_alignRight="@+id/tv_question"
+                android:background="#00ffffff"
+                android:src="@drawable/drawii"
+                android:layout_weight="1"/>
+            <ImageButton
+                android:id="@+id/imageButtonGenerateBulk4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="25dp"
+
+                android:layout_gravity="center_vertical"
+                android:ellipsize="end"
+                android:scrollHorizontally="true"
+                android:singleLine="true"
+                android:text="Generate Qr Code"
+                android:textStyle="bold"
+                android:layout_alignEnd="@+id/tv_question"
+                android:layout_alignRight="@+id/tv_question"
+                android:background="#00ffffff"
+                android:src="@drawable/drawii"
+                android:layout_weight="1"/>
+        </LinearLayout>
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent" android:orientation="horizontal"
+            android:gravity="fill_horizontal"
+            android:background="@drawable/round_corner_rectangle"
+            android:layout_margin="0.5dp"
+            >
+            <!--android:layout_margin="20dp"-->
+            <ImageButton
+                android:id="@+id/imageButtonGenerateBulk5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="25dp"
+
+                android:layout_gravity="center_vertical"
+                android:ellipsize="end"
+                android:scrollHorizontally="true"
+                android:singleLine="true"
+                android:text="Generate Qr Code"
+                android:textStyle="bold"
+                android:layout_alignEnd="@+id/tv_question"
+                android:layout_alignRight="@+id/tv_question"
+                android:background="#00ffffff"
+                android:src="@drawable/drawii"
+                android:layout_weight="1"/>
+            <ImageButton
+                android:id="@+id/imageButtonGenerateBulk6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="25dp"
+
+                android:layout_gravity="center_vertical"
+                android:ellipsize="end"
+                android:scrollHorizontally="true"
+                android:singleLine="true"
+                android:text="Generate Qr Code"
+                android:textStyle="bold"
+                android:layout_alignEnd="@+id/tv_question"
+                android:layout_alignRight="@+id/tv_question"
+                android:background="#00ffffff"
+                android:src="@drawable/drawii"
+                android:layout_weight="1"/>
+        </LinearLayout>
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_height="wrap_content"
+            android:layout_width="fill_parent" android:orientation="horizontal"
+            android:gravity="fill_horizontal"
+            android:background="@drawable/round_corner_rectangle"
+            android:layout_margin="0.5dp"
+            >
+            <!--android:layout_margin="20dp"-->
+            <ImageButton
+                android:id="@+id/imageButtonGenerateBulk7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="25dp"
+
+                android:layout_gravity="center_vertical"
+                android:ellipsize="end"
+                android:scrollHorizontally="true"
+                android:singleLine="true"
+                android:text="Generate Qr Code"
+                android:textStyle="bold"
+                android:layout_alignEnd="@+id/tv_question"
+                android:layout_alignRight="@+id/tv_question"
+                android:background="#00ffffff"
+                android:src="@drawable/drawii"
+                android:layout_weight="1"/>
+            <ImageButton
+                android:id="@+id/imageButtonGenerateBulk8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="25dp"
+
+                android:layout_gravity="center_vertical"
+                android:ellipsize="end"
+                android:scrollHorizontally="true"
+                android:singleLine="true"
+                android:text="Generate Qr Code"
+                android:textStyle="bold"
+                android:layout_alignEnd="@+id/tv_question"
+                android:layout_alignRight="@+id/tv_question"
+                android:background="#00ffffff"
+                android:src="@drawable/drawii"
+                android:layout_weight="1"/>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>
