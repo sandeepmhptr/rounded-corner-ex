@@ -37,7 +37,7 @@
                 android:textStyle="bold"
                 android:layout_alignEnd="@+id/tv_question"
                 android:layout_alignRight="@+id/tv_question"
-                android:background="@drawable/drawii"
+                android:background="@drawable/drawii2"
                 android:src="@drawable/bus"
                 android:layout_weight="1"/>
             <ImageButton
