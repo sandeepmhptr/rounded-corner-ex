@@ -41,22 +41,13 @@
                 android:src="@drawable/bus"
                 android:layout_weight="1"/>
             <ImageButton
-                android:id="@+id/imageButtonGenerateBulk2"
+                android:id="@+id/imageButton1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginRight="25dp"
-
-                android:layout_gravity="center_vertical"
-                android:ellipsize="end"
-                android:scrollHorizontally="true"
-                android:singleLine="true"
-                android:text="Generate Qr Code"
-                android:textStyle="bold"
-                android:layout_alignEnd="@+id/tv_question"
-                android:layout_alignRight="@+id/tv_question"
-                android:background="#00ffffff"
-                android:src="@drawable/drawii"
-                android:layout_weight="1"/>
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/drawii2"
+                android:src="@drawable/bus" />
         </LinearLayout>
         <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
             android:layout_height="wrap_content"
